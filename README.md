@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Huseyin
 
  - 🔭 I'm currently working as a .NET Developer at BilgeAdam Technologies.
- - 🌱 I’m currently learning .Net
+ <!-- - 🌱 I’m currently learning .Net -->
 -  📫 How to reach me:
 
     <a href="https://www.linkedin.com/in/huseyin-ceylan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><img></a>
